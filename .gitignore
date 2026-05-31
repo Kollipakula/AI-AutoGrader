@@ -1,0 +1,31 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Environment variables
+.env
+
+# Node modules
+frontend/node_modules/
+
+# Build folders
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads
+backend/uploads/
+
+# AI model cache
+*.pth
+*.pt
+*.onnx
+
+# PaddleOCR cache
+.paddlex/
